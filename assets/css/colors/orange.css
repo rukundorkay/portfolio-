@@ -1,5 +1,5 @@
 header .logo svg {
-  fill: #ff651c;
+  fill: #a13842;
 }
 .clickbtn,
 .cursor-inner,
@@ -9,7 +9,7 @@ header .logo svg {
 .skills .progress-bar,
 .style-switch-wrapper .purchse-btn,
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ff651c;
+  background-color: #a13842;
 }
 .about-me .content h3,
 .about-me .content ul i,
@@ -34,7 +34,7 @@ header .logo svg {
 .single-post .post-content .content-date,
 .single-post:hover .post-content .content-title h5 > a,
 a {
-  color: #ff651c;
+  color: #a13842;
 }
 .clickbtn,
 .cursor-outer,
@@ -42,7 +42,7 @@ a {
 .portfolio .portfolio-flters li,
 .resume .resume-item::before,
 .style-switch-wrapper .purchse-btn {
-  border: 2px solid #ff651c;
+  border: 2px solid #a13842;
 }
 .contact .email-form .sent-message,
 .contact .email-form button[type="submit"],
@@ -52,7 +52,7 @@ a {
 .services .icon-box .icon,
 .services .icon-box:hover,
 .switch {
-  background: #ff651c;
+  background: #a13842;
 }
 .main-img-mobile {
   border: 2px solid #000;

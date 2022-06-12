@@ -452,7 +452,7 @@ section .container {
 .clickbtn2:hover {
   box-shadow: 0 0 25px rgb(0 0 0 / 85%);
   transform: rotate(10deg);
-  background-color: #ff651c;
+  background-color: #a13842;
   color: #fff;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
